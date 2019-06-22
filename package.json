@@ -1,12 +1,14 @@
 {
   "name": "reus-server-starter",
   "version": "1.0.0",
+  "author": "guozhi <zhi.guo@geekthings.com.cn>",
+  "private": true,
   "scripts": {
     "start": "reus launch . --mode dev",
     "build": "reus build .",
     "deploy": "reus launch ."
   },
   "dependencies": {
-    "reus.js": "^1.0.0"
+    "reus.js": "^1.0.7"
   }
 }

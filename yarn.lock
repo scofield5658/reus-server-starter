@@ -5686,10 +5686,10 @@ ret@~0.1.10:
   resolved "https://registry.npm.taobao.org/ret/download/ret-0.1.15.tgz#b8a4825d5bdb1fc3f6f53c2bc33f81388681c7bc"
   integrity sha1-uKSCXVvbH8P29Twrwz+BOIaBx7w=
 
-reus.js@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/reus.js/-/reus.js-1.0.0.tgz#1663ee88a173bba515394044afa8feadd87771f7"
-  integrity sha512-DLVowPNoVEiEBku1Y3nyyV30vO7Z3LdoNxz4aECgVw2Dv41GsLf6ISaNXT9rLzyyYmvdtDQbopZTPBB72wOlDQ==
+reus.js@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/reus.js/-/reus.js-1.0.7.tgz#74cc6f11a390be2b144102d70f704c7761470b53"
+  integrity sha512-dpt7a+/gqYVSsOQGhfgHD3bVY3R5Nid3XFsEDIhoCvAQlEixxgQDWSsUwljo3GQTFpyHBt+fitmdotDHAwC9Dg==
   dependencies:
     browser-sync "2.26.7"
     commander "^2.17.1"
