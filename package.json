@@ -9,7 +9,7 @@
     "deploy": "reus launch ."
   },
   "dependencies": {
-    "mongoose": "^5.6.1",
+    "mongoose": "^5.7.5",
     "reus.js": "^1.1.0",
     "sequelize": "^5.8.12"
   },
