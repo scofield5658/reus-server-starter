@@ -4123,10 +4123,10 @@ retry-as-promised@^3.2.0:
   dependencies:
     any-promise "^1.3.0"
 
-reus.js@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/reus.js/-/reus.js-1.1.2.tgz#5f7ecfe257b8c3468651102ba9718dea35a46071"
-  integrity sha512-YR/pN0QvlnGgC5+LgX9WMuKNz0GI+oUkpPmA1EypwqT8G6VW3aCCJRlW5YGXSsw8pUF9KdliJTe9/fypvhmjSw==
+reus.js@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/reus.js/-/reus.js-1.1.3.tgz#596884809c94cbd8f54305c249bf2cccba921750"
+  integrity sha512-qvNNI2S+F7T2YGpUcrb1y+hlE910VyFYsisRMCk3En2KTsAgVAK92I5cNWMCNeczfU8pFFdj9nNS88PTmETW3g==
   dependencies:
     browser-sync "2.26.7"
     commander "^2.17.1"
