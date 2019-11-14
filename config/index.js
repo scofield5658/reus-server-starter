@@ -2,9 +2,9 @@ module.exports = {
   mongodb: [
     {
       alias: 'mongo1',
-      uri: 'mongodb://172.50.1.179:27017/ri-business-dev',
-      user: 'ri-business-dev',
-      password: 'abcd@1234',
+      uri: 'mongodb://export.com:27017/dbname',
+      user: 'user',
+      password: 'pass',
       poolSize: 2,
     },
   ],

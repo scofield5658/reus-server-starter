@@ -8,7 +8,7 @@ module.exports = [
   {
     path: '/redirect_sample',
     method: 'get',
-    redirect: '/v1/business/banners',
-    target: 'http://172.50.1.182:3080',
+    redirect: '/v3/weather/weatherInfo?key=162150bdfd5e3e12a2d882272232318b&city=%E5%B9%BF%E5%B7%9E&output=json',
+    target: 'http://restapi.amap.com',
   },
 ];

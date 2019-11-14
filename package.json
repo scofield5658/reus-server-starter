@@ -1,7 +1,7 @@
 {
   "name": "reus-server-starter",
   "version": "1.0.0",
-  "author": "guozhi <zhi.guo@geekthings.com.cn>",
+  "author": "guozhi <guozhi5658@gmail.com>",
   "private": true,
   "scripts": {
     "start": "reus launch . --mode dev",
@@ -10,10 +10,7 @@
   },
   "dependencies": {
     "mongoose": "^5.7.5",
-    "reus.js": "^1.1.0",
+    "reus.js": "^1.1.2",
     "sequelize": "^5.15.1"
-  },
-  "devDependencies": {
-    "babel-eslint": "^10.0.2"
   }
 }
