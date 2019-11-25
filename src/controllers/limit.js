@@ -1,9 +1,9 @@
-const { Controller } = require('reus.js');
+const { Controller } = require("reus.js");
 
 class LimitController extends Controller {
   async index() {
     const { ctx } = this;
-    ctx.json({ data: 'hello from LimitController' });
+    ctx.json({ data: "hello from LimitController" });
   }
 }
 

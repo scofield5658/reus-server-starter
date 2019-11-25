@@ -1,4 +1,4 @@
-const { Middleware } = require('reus.js');
+const { Middleware } = require("reus.js");
 
 class LogMiddleware extends Middleware {
   async index() {
