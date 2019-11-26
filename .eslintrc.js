@@ -30,6 +30,8 @@ module.exports = {
     "experimentalDecorators": "off",
     "no-restricted-syntax": "off",
     "no-restricted-globals": "off",
+    "no-underscore-dangle": "off",
+    "max-len": "off",
     "global-require": "off",
   },
 };
